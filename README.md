@@ -6,6 +6,7 @@ sudo apt install python3-opencv
 pip3 install numpy
 mkdir yolo
 cd yolo
+pip install opencv-python
 wget https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov4-tiny.cfg
 wget https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4-tiny.weights
 wget https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
