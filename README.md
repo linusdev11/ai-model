@@ -1,4 +1,5 @@
 # ai-model
+| You will need a virtual environment
 
 ```
 sudo apt update
